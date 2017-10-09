@@ -43,6 +43,6 @@ int main(int arg,char* argv[])
         return -1;
     }
     vector <Probka> dane=wczytaj(argv[1]);
-
+cin.get();
     return 0;
 }
